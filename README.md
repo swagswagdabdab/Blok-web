@@ -72,13 +72,6 @@ Het gerbruiken van een screenreader bij de website van apple is lachwekkend slec
 </details>
 
 
-#### Screenreader
-Het doorlopen van de website met screenreader ging niet helemaal lekker. Hij las veel dingen voor op de site die overbodig zouden zijn voor de persoon die gebruikt maakt van de screenreader zoals het vertellen van welk tekstelement je bent. Verder kan de screenreader ook de tekst over afbeeldingen niet lezen en mijn site maakt hier veel gebruik van en dus mis je zo veel belangrijk informatie.
- 
- 
-  #### Muis en Toetsenbord 
-Hier heb ik verder niet heelveel op aan te merken. De site is met de muis en het toetsenbord makkelijk te besturen. Alleen wordt de cursor op de site wel anders (vormgeving van de wrebsite zelf)
- 
 
 
 ## Breakdownschets (week 1)
