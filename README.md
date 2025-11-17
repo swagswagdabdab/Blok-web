@@ -56,10 +56,29 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+Ik heb bij de test 2 soorten toegankelijkheids testen gedaan die Visuele beperking en spasmes en parkinson na bootsen. Hiervoor kregen we tijdens de les verschillende voorwerpen.
+
+###visueel
+waarvan 2 soorten brillen, eentje met een klein vlek op de glazen en eentje met de glazen helemaal zwart met een klein gaatje er in. Bij de test heb ik verschillende websites bezocht en met de bril met een grote visuele beperking was navigeren en zelfs het toetsenbord gebruiker erg lastig. 
+
+  #### Motoriek (shocks, elastiekjes)
+Bij dit gedeelte hebben we een soort schokappararaat opgedaan om parkinson en spasmes na te bootsen. Hierbij was navigeren wel te doen mits de schokstand niet te hoog stond, wel duurde alles was langer dan normaal.
+
+###screenreader
+Het gerbruiken van een screenreader bij de website van apple is lachwekkend slecht en frustrerend. het feit dat je van links boven naar rechts onder navigeert is ontzettend innefficient en onhandig. De screenreader kan ook de tekst niet lezen die in een afbeelding is verwerkt wat ook niet heel fijn is. Ik had wel verwacht dat in 2025 mensen met een visuele beperking beter hadden kunnen navigeren over een website.
+
+
 
 </details>
 
+
+#### Screenreader
+Het doorlopen van de website met screenreader ging niet helemaal lekker. Hij las veel dingen voor op de site die overbodig zouden zijn voor de persoon die gebruikt maakt van de screenreader zoals het vertellen van welk tekstelement je bent. Verder kan de screenreader ook de tekst over afbeeldingen niet lezen en mijn site maakt hier veel gebruik van en dus mis je zo veel belangrijk informatie.
+ 
+ 
+  #### Muis en Toetsenbord 
+Hier heb ik verder niet heelveel op aan te merken. De site is met de muis en het toetsenbord makkelijk te besturen. Alleen wordt de cursor op de site wel anders (vormgeving van de wrebsite zelf)
+ 
 
 
 ## Breakdownschets (week 1)
