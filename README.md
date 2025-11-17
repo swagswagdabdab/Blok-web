@@ -58,13 +58,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
 Ik heb bij de test 2 soorten toegankelijkheids testen gedaan die Visuele beperking en spasmes en parkinson na bootsen. Hiervoor kregen we tijdens de les verschillende voorwerpen.
 
-###visueel
+visueel
 waarvan 2 soorten brillen, eentje met een klein vlek op de glazen en eentje met de glazen helemaal zwart met een klein gaatje er in. Bij de test heb ik verschillende websites bezocht en met de bril met een grote visuele beperking was navigeren en zelfs het toetsenbord gebruiker erg lastig. 
 
-  #### Motoriek (shocks, elastiekjes)
+Motoriek
 Bij dit gedeelte hebben we een soort schokappararaat opgedaan om parkinson en spasmes na te bootsen. Hierbij was navigeren wel te doen mits de schokstand niet te hoog stond, wel duurde alles was langer dan normaal.
 
-###screenreader
+screenreader
 Het gerbruiken van een screenreader bij de website van apple is lachwekkend slecht en frustrerend. het feit dat je van links boven naar rechts onder navigeert is ontzettend innefficient en onhandig. De screenreader kan ook de tekst niet lezen die in een afbeelding is verwerkt wat ook niet heel fijn is. Ik had wel verwacht dat in 2025 mensen met een visuele beperking beter hadden kunnen navigeren over een website.
 
 
