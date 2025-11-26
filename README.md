@@ -37,12 +37,10 @@ Blauw
   ### Je opdracht:
 (https://patta.nl/)
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-Homescreen
+  #### Homescreen: 
 <img src="readme-images/pattaHomescreen.png" width="375px" alt="Homescherm van de patta website">
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-Product pagina
+  #### Product pagina:
 <img src="readme-images/pattaProduct.png" width="375px" alt="Product pagina van een jas op de patta website">
  
 </details>
@@ -59,15 +57,15 @@ Ik heb bij de test 2 soorten toegankelijkheids testen gedaan die Visuele beperki
 
 visueel
 waarvan 2 soorten brillen, eentje met een klein vlek op de glazen en eentje met de glazen helemaal zwart met een klein gaatje er in. Bij de test heb ik verschillende websites bezocht en met de bril met een grote visuele beperking was navigeren en zelfs het toetsenbord gebruiker erg lastig. 
-<img src="readme-images/test2.HEIC.HEIC" width="375px" alt="Sam met een bril op">
+<img src="readme-images/test2.png" width="375px" alt="Sam met een bril op">
 
 Motoriek
 Bij dit gedeelte hebben we een soort schokappararaat opgedaan om parkinson en spasmes na te bootsen. Hierbij was navigeren wel te doen mits de schokstand niet te hoog stond, wel duurde alles was langer dan normaal.
-<img src="readme-images/test1.HEIC" width="375px" alt="Tijn die geelectrocuteerd word"> 
+<img src="readme-images/test1.png" width="375px" alt="Tijn die geelectrocuteerd word"> 
 
 screenreader
 Het gerbruiken van een screenreader bij de website van apple is lachwekkend slecht en frustrerend. het feit dat je van links boven naar rechts onder navigeert is ontzettend innefficient en onhandig. De screenreader kan ook de tekst niet lezen die in een afbeelding is verwerkt wat ook niet heel fijn is. Ik had wel verwacht dat in 2025 mensen met een visuele beperking beter hadden kunnen navigeren over een website.
-<img src="readme-images/test3.HEIC" width="375px" alt="Bril die visuele beperking simuleert"> 
+<img src="readme-images/test3.png" width="375px" alt="Bril die visuele beperking simuleert"> 
 
 
 
