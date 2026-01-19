@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-Daan de Sanders
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
- Surface plane
+  hier je focus (kies uit responsive óf surface plane)
  
 </details>
 
@@ -33,15 +33,18 @@ Blauw
 ## Je website
 
 <details open>
+  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-(https://patta.nl/)
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
-  #### Homescreen: 
-<img src="readme-images/pattaHomescreen.png" width="375px" alt="Homescherm van de patta website">
+  #### Screenshot(s) van de eerste pagina (small screen): 
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
-  #### Product pagina:
-<img src="readme-images/pattaProduct.png" width="375px" alt="Product pagina van een jas op de patta website">
+  #### Screenshot(s) van de tweede pagina (small screen):
+  hier de naam van de pagina  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -53,24 +56,9 @@ Blauw
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-Ik heb bij de test 2 soorten toegankelijkheids testen gedaan die Visuele beperking en spasmes en parkinson na bootsen. Hiervoor kregen we tijdens de les verschillende voorwerpen.
-
-visueel
-waarvan 2 soorten brillen, eentje met een klein vlek op de glazen en eentje met de glazen helemaal zwart met een klein gaatje er in. Bij de test heb ik verschillende websites bezocht en met de bril met een grote visuele beperking was navigeren en zelfs het toetsenbord gebruiker erg lastig. 
-<img src="readme-images/test2.png" width="375px" alt="Sam met een bril op">
-
-Motoriek
-Bij dit gedeelte hebben we een soort schokappararaat opgedaan om parkinson en spasmes na te bootsen. Hierbij was navigeren wel te doen mits de schokstand niet te hoog stond, wel duurde alles was langer dan normaal.
-<img src="readme-images/test1.png" width="375px" alt="Tijn die geelectrocuteerd word"> 
-
-screenreader
-Het gerbruiken van een screenreader bij de website van apple is lachwekkend slecht en frustrerend. het feit dat je van links boven naar rechts onder navigeert is ontzettend innefficient en onhandig. De screenreader kan ook de tekst niet lezen die in een afbeelding is verwerkt wat ook niet heel fijn is. Ik had wel verwacht dat in 2025 mensen met een visuele beperking beter hadden kunnen navigeren over een website.
-<img src="readme-images/test3.png" width="375px" alt="Bril die visuele beperking simuleert"> 
-
-
+  Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
-
 
 
 
@@ -80,10 +68,13 @@ Het gerbruiken van een screenreader bij de website van apple is lachwekkend slec
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/BreakdownSchets1.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/BreakdownSchets2.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
+  ### wellicht nog een dynamisch deel (bijv filter): 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
