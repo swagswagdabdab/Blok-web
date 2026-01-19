@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+Daan de Sanders
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+ Surface plane
  
 </details>
 
@@ -33,18 +33,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+(https://patta.nl/)
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  #### Homescreen: 
+<img src="readme-images/pattaHomescreen.png" width="375px" alt="Homescherm van de patta website">
 
-  #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  #### Product pagina:
+<img src="readme-images/pattaProduct.png" width="375px" alt="Product pagina van een jas op de patta website">
  
 </details>
 
@@ -56,9 +53,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+Ik heb bij de test 2 soorten toegankelijkheids testen gedaan die Visuele beperking en spasmes en parkinson na bootsen. Hiervoor kregen we tijdens de les verschillende voorwerpen.
+
+visueel
+waarvan 2 soorten brillen, eentje met een klein vlek op de glazen en eentje met de glazen helemaal zwart met een klein gaatje er in. Bij de test heb ik verschillende websites bezocht en met de bril met een grote visuele beperking was navigeren en zelfs het toetsenbord gebruiker erg lastig. 
+<img src="readme-images/test2.png" width="375px" alt="Sam met een bril op">
+
+Motoriek
+Bij dit gedeelte hebben we een soort schokappararaat opgedaan om parkinson en spasmes na te bootsen. Hierbij was navigeren wel te doen mits de schokstand niet te hoog stond, wel duurde alles was langer dan normaal.
+<img src="readme-images/test1.png" width="375px" alt="Tijn die geelectrocuteerd word"> 
+
+screenreader
+Het gerbruiken van een screenreader bij de website van apple is lachwekkend slecht en frustrerend. het feit dat je van links boven naar rechts onder navigeert is ontzettend innefficient en onhandig. De screenreader kan ook de tekst niet lezen die in een afbeelding is verwerkt wat ook niet heel fijn is. Ik had wel verwacht dat in 2025 mensen met een visuele beperking beter hadden kunnen navigeren over een website.
+<img src="readme-images/test3.png" width="375px" alt="Bril die visuele beperking simuleert"> 
+
+
 
 </details>
+
 
 
 
@@ -68,13 +80,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/BreakdownSchets1.jpg" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### Product pagina: 
+  <img src="readme-images/BreakdownSchets2.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 </details>
 
@@ -88,7 +97,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Bij het eerste voortgangsgesprek was ik nog niet begonnen aan mijn html. Ik had al een grove versie gemaakt van een breakdownschets maar niet klopte niet helemaal. Danny heeft me toen geholpen met het uitwerken van mn breakdownschets 
 
 
   ### Agenda voor meeting
@@ -103,11 +112,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+- Breakdownschets aangepast
+- Betere verdeling van sections besproken
+- Focus gelegd op mobile-first aanpak
 
 </details>
 
@@ -120,12 +127,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+### Stand van zaken
+In deze fase ben ik gestart met het opbouwen van mijn CSS. Aan het begin was het even wennen om niet met classes te werken maar hoe meer ik met nth of type werkte hoe duidelijker het werd dat het een stuk overzichtelijker is.
+
+Daarnaast ben ik begonnen met het uitwerken van micro-interacties en animaties, geïnspireerd op voorbeelden uit de lessen.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+sneeuw meeting
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -134,13 +143,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ...            | ...                | ...          | ...              |
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+### Verslag van meeting
+- HTML-structuur besproken
+- Eerste CSS-opzet bekeken
+- Feedback gekregen op gebruik van animaties
 
 </details>
 
@@ -167,13 +174,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+### Stand van zaken
+In de laatste fase heb ik gewerkt aan het verfijnen van de interacties, animaties en details in de interface. Ook heb ik aandacht besteed aan toegankelijkheid en het opschonen van mijn code. Ik had niet echt om feedback gevraagt tijdens het laatste voorgangsgesprek, ik heb wel even m'n gezicht laten zien.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
 
+sneeuw meeting
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
@@ -181,13 +187,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ...            | ...                | ...          | ...              |
 
 
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+### Verslag van meeting
+- Laatste feedback verwerkt
+- Toegankelijkheid besproken
+- Voorbereiding op eindgesprek
 
 </details>
 
@@ -205,15 +208,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+- Beter semantische HTML en CSS toepassen
+- Rekening houden met toegankelijkheid vanaf het begin
+- Naar een website kijken en weten hoe het is opgebouwt 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/WebsiteHomeFinal.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/WebsiteProductPageFinal.png" width="375px" alt="bummer">
 </details>
 
 
@@ -225,12 +230,51 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
+1. Patta – officiële website  
+   https://www.patta.nl/  
+   Gebruikt als referentie voor structuur, content en visuele stijl van de home- en productpagina.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+2. Sanne Schooft – CodePen voorbeelden (Frontend Development lessen)  
+   https://codepen.io/shooft/pen/KwdyjOo  
+   https://codepen.io/shooft/pen/gbaXdqz  
+   https://codepen.io/shooft/pen/empewjK  
+   https://codepen.io/shooft/pen/KwdZPMP  
+   https://codepen.io/shooft/pen/XJmEOyb  
+   https://codepen.io/shooft/pen/wBKyoWx  
+   https://codepen.io/shooft/pen/KwdoJrY  
+   https://codepen.io/shooft/pen/QwjQGZe  
+   https://codepen.io/shooft/pen/KwdZEKz  
+   https://codepen.io/shooft/pen/MYaXoza  
+   https://codepen.io/shooft/pen/azvKYVZ  
+   https://codepen.io/shooft/pen/ByoVYeJ  
+   https://codepen.io/shooft/pen/OPyEQGO  
+   https://codepen.io/shooft/pen/jEbKzoO  
+   https://codepen.io/shooft/pen/Kwdeojw  
+
+De 3D-carousel en het scroll-gedrag van de header zijn samen met Sanne Schooft uitgewerkt tijdens de lessen.  
+   Ik begrijp het effect en de toepassing binnen mijn website, maar niet elk onderliggend wiskundig of technisch detail van de 3D-animatie.  
+   De code is bewust gebruikt als leervoorbeeld en geïntegreerd binnen mijn eigen HTML-, CSS- en JavaScript-structuur.
+
+3. ChatGPT (OpenAI)  
+   https://chat.openai.com/  
+   Gebruikt als hulpmiddel bij:
+   - verduidelijken van CSS- en JavaScript-concepten  
+   - opzetten van prefers-reduced-motion  
+   - reflectie op toegankelijkheid  
+   Alle gegenereerde suggesties zijn begrepen, aangepast en handmatig geïntegreerd. Er is geen code blind overgenomen.
+
+4. MDN Web Docs  
+   https://developer.mozilla.org/  
+   Geraadpleegd voor documentatie over:
+   - semantische HTML-elementen  
+   - form-accessibility (label, fieldset, legend)  
+   - JavaScript event handling  
+   - CSS selectors en pseudo-classes
+
+5. FED lessen & feedbackmomenten  
+   Feedback en uitleg van docenten en studentassistenten (o.a. Sanne Schooft en Danny) tijdens werkgroepen en voortgangsgesprekken, gebruikt voor:
+   - aanscherpen van de breakdownschets  
+   - verbeteren van semantiek  
+   - toetsen van toegankelijkheid
 
 </details>
