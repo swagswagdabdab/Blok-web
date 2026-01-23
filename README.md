@@ -171,17 +171,12 @@ Uit de WCAG-test blijkt dat mijn website grotendeels voldoet aan de basisrichtli
 
 Daarnaast zorgen het toepassen van prefers-reduced-motion en voldoende kleurcontrast ervoor dat de website beter bruikbaar is voor gebruikers met visuele of motorische beperkingen. Op basis van deze test concludeer ik dat mijn website toegankelijker is dan het originele voorbeeld waarop deze is gebaseerd.
 
-	<img src="readme-images/Test4.png" width="300px" alt="">
-		<img src="readme-images/Test5.png" width="300px" alt="">
-			<img src="readme-images/Test6.png" width="300px" alt="">
-				<img src="readme-images/Test7.png" width="300px" alt="">
-					<img src="readme-images/Test8.png "width="300px" alt="">
-
-  <img src="readme-images/BreakdownSchets1.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### Product pagina: 
-  <img src="readme-images/BreakdownSchets2.jpg" width="375px" alt="breakdown van een dynamisch deel">
-</details>
+  ### Test foto's: 
+<img src="readme-images/Test4.png" width="300px" alt="">
+<img src="readme-images/Test5.png" width="300px" alt="">
+<img src="readme-images/Test6.png" width="300px" alt="">
+<img src="readme-images/Test7.png" width="300px" alt="">
+<img src="readme-images/Test8.png "width="300px" alt="">
 
 
 
